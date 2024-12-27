@@ -65,10 +65,10 @@ To also confirm the information of the website, I went to Who.is to find out mor
 
 ![WhoIs](https://github.com/user-attachments/assets/e7deeb72-b7d0-4690-8c7b-504c30845ae4)
 
-I found out that the website was just registered on October 23rd, 2024, only a few months ago. I also noticed that the website was registered after their YouTube channel uploaded videos about the company. The whole thing is very suspicious.
+I found out that the website was just registered on October 23rd, 2024, only a few months ago. I also noticed that the website was registered after their YouTube channel uploaded videos about the company, which was in September of 2024. The whole thing is very suspicious.
 
 ## Insight & Recommendations
-Based on everything I have analyzed about this job and company, I believe that this job is fake and not legit. The key indicators were the fact that they never did a face-to-face or online interview and how recently the company's website was made. Something is not right with this company and job posting.
+Based on everything I have analyzed about this job and company, I believe that this job is fake and not legit. The key indicators were the fact that they never did a face-to-face or online interview and how recently the company's website was made. Something is not right with this company and job posting. I feel that LinkedIn and other job posting websites should really focus on filtering out job posts, confirming that the companies on their platform and the job posts being made on their platforms are legit.
 
 To prevent this from happening again, I encourage everyone who is applying for jobs using websites like LinkedIn, Indeed, and Glassdoor to:
 
